@@ -22,6 +22,5 @@ Here are some ideas to get you started:
 
 ### About me
 
-Apresento carreira em desenvolvimento nas áreas de Programação e Desenvolvimento, com Graduação em Tecnologia em Análise e Desenvolvimento de Sistemas e Cursando Desenvolvimento Front-End e Back-End. Profissional com excelentes conhecimentos em HTML | CSS | JavaScript | Banco de Dados | Git | Node.js | React |.
-
+Apresento carreira em desenvolvimento nas áreas de Programação e Desenvolvimento, com Graduação em Tecnologia em Análise e Desenvolvimento de Sistemas e Cursando Desenvolvimento Front-End e Back-End. Desenvolvedor Full Stack em Formação | HTML | CSS | JAVASCRIPT | PYTHON | DJANGO | SQL | NODE.JS  | REACT | GIT.
 
