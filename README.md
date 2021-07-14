@@ -47,6 +47,5 @@ Here are some ideas to get you started:
 Made with ❤️ by Charles Roberto 👋🏽 Hit me up!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charles-r-lima/)](https://www.linkedin.com/in/charles-r-lima/)
-[![Gmail Badge](https://camo.githubusercontent.com/aece10863a5fff46606caed97a7e178cbf2240744825512e0363d67aff9589bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a616c65786a6f736573696c7661746940676d61696c2e636f6d)
 
 
