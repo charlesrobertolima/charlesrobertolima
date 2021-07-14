@@ -34,6 +34,7 @@ Here are some ideas to get you started:
  - ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue)
  - ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen)
  - ![React](https://img.shields.io/badge/-React-ff69b4)
+ - [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/charlesrobertolima)](https://github.com/charlesrobertolima)
  - ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue)
   
 ## How to reach me... 🎯
