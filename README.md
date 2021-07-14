@@ -48,4 +48,5 @@ Made with ❤️ by Charles Roberto 👋🏽 Hit me up!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charles-r-lima/)](https://www.linkedin.com/in/charles-r-lima/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:charlesdesenvolvedorfullstack@gmail.com)](mailto:charlesdesenvolvedorfullstack@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5541995572766&text=Olá!)](https://api.whatsapp.com/send?phone=5541995572766&text=Olá!)
 
