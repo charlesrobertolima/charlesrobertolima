@@ -36,8 +36,7 @@ Here are some ideas to get you started:
  - ![React](https://img.shields.io/badge/-React-ff69b4)
  - [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/charlesrobertolima)](https://github.com/charlesrobertolima)
  - ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue)
- - [![Python Badge](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white&link=https://www.linkedin.com/in/charles-r-lima/)] (https://www.linkedin.com/in/charles-r-lima/)
-
+ - [![Python Badge](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white&link=https://www.linkedin.com/in/charles-r-lima/)](https://www.linkedin.com/in/charles-r-lima/)
   
 ## How to reach me... 🎯
 
