@@ -5,6 +5,10 @@
 
 ##Sobre mim 🦅
 
+- 📜 Tecnólogo em Análise e Desenvolvimento de Sistemas <a href="https://www.camoes.edu.br/">FICA</a>
+- 📚 Estudante de Desenvolvimento Full Stack <a href="https://www.cubos.academy/">Cubos Academy</a>
+- Apaixonado em 🏃,⚽, 📚, 🎼 e assistir conteúdo cristão 🎥🙏.
+
 <div>
   <a href="https://github.com/charlesrobertolima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlesrobertolima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
