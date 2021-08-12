@@ -1,4 +1,8 @@
 
+# Oh, hello there 👋! It's me, Charles Roberto!
+### Welcome to my Github Profile. I am so glad you had time to swing by! 🥰
+#### Feel free to look around, contribute with me or just talk 😅
+
 <div>
   <a href="https://github.com/charlesrobertolima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlesrobertolima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
