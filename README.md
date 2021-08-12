@@ -21,7 +21,7 @@
   <img align="center" alt="Charles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Charles-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Charles-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="right" alt="Charles-gif"  height="30" width="40" src="https://www.correiobraziliense.com.br/_conteudo/euestudante/enem/enem2019/assets/img/menino.gif">
+   <img align="right" alt="Charles-gif"  height="80" width="70" src="https://www.correiobraziliense.com.br/_conteudo/euestudante/enem/enem2019/assets/img/menino.gif">
  </div>
   
   ##
