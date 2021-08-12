@@ -1,7 +1,7 @@
 
-# Oh, hello there 👋! It's me, Charles Roberto!
-### Welcome to my Github Profile. I am so glad you had time to swing by! 🥰
-#### Feel free to look around, contribute with me or just talk 😅
+# Oiii 👋! Sou eu, Charles Roberto!
+### Bem-vindo ao meu perfil no Github. Estou tão feliz que você teve tempo de passar por aqui!   
+#### Sinta-se à vontade para olhar em volta, contribuir comigo ou apenas conversar 😅
 
 <div>
   <a href="https://github.com/charlesrobertolima">
