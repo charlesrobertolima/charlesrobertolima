@@ -21,7 +21,7 @@
   <img align="center" alt="Charles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Charles-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Charles-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="right" alt="Charles-gif" src="https://media1.giphy.com/media/jruxALZV1Ljen5Ru9I/200w.gif">
+   <img align="right" alt="Charles-gif" src="https://www.imagensanimadas.com/data/media/1013/menino-imagem-animada-0063.gif" border="0" alt="menino-imagem-animada-0063">
  </div>
   
   ##
