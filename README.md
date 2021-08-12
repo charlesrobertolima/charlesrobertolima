@@ -21,8 +21,8 @@
   <img align="center" alt="Charles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Charles-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Charles-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-     <img align="center" alt="Charles-Node" height="50" width="40" src="https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen">
-   <img align="center" alt="Charles-Postgres" height="50" width="40" src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue">
+     <img align="center" alt="Charles-Node" height="30" width="50" src="https://img.shields.io/static/v1?label=&message=NodeJS&color=brightgreen">
+   <img align="center" alt="Charles-Postgres" height="30" width="50" src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue">
    <img align="right" alt="Charles-gif" src="https://www.imagensanimadas.com/data/media/1013/menino-imagem-animada-0053.gif" border="0" alt="menino-imagem-animada-0053">
  </div>
   
