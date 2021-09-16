@@ -20,7 +20,7 @@
   <img align="center" alt="Charles-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Charles-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Charles-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="right" alt="Rafa-yoda" src="https://media4.giphy.com/media/OWgDiFQbtizpdLewE5/200.webp?cid=ecf05e47id0fgmofy4l79i9nf7p8mbzadyyfibppkv97kyxe&rid=200.webp&ct=g">
+  <img align="right" alt="Rafa-yoda" src="">
 </div>
   
   ##
